@@ -1,0 +1,6 @@
+*.o
+*.mod
+*.msg
+logistic
+pop_push/
+.DS_STORE
